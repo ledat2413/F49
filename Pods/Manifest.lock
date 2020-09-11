@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - GMStepper (2.2)
+  - JGProgressHUD (2.1)
+  - ObjectMapper (3.5.3)
+  - Realm (5.3.4):
+    - Realm/Headers (= 5.3.4)
+  - Realm/Headers (5.3.4)
+  - RealmSwift (5.3.4):
+    - Realm (= 5.3.4)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.0)
+  - ChameleonFramework
+  - GMStepper
+  - JGProgressHUD
+  - RealmSwift
+  - SDWebImage
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ChameleonFramework
+    - GMStepper
+    - JGProgressHUD
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  Realm: 4dd457b6ed025041cf7efe05dae78c027ba842e0
+  RealmSwift: 233af88fffe05ed7f9305eecef100d477c0c2c42
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 317edca07df99368a6787d9fb37aea8ce9731a3b
+
+COCOAPODS: 1.9.3
